@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+}
+
+.container__imagem {
+    margin: 1em 0 2em 0;
+    font-size:28px;
+    font-weight: 700;
+}
+header {
+    background-color: blue;
+    color:black;
+    margin: -10px;
+    padding: 0px;
+}
+
+.cabecalho {
+    background-color: blue;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-item-lista {
+    display: inline-block;
+    margin: 0px;
+}
+
+* {
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
+}
